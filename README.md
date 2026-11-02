@@ -1,5 +1,6 @@
 # Install Autopsy and Analyze the Disk File and Folder Configuration
-
+### NAME - M.GAJALAKSHMI 
+### REGNO - 212224100016
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
 
@@ -52,6 +53,14 @@ Export or recover files if required for the investigation.
 
 ## OUTPUT:
 File and Folder Configuration Analysis Results
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/15349b76-3b54-49b8-ab4c-8ed98c00d9f0" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/4371b019-6af8-485a-bf48-e3b5623f80bb" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/bf84b3fa-a6fc-4063-a114-57ddd4b110f7" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/4160e907-cb00-4b9b-86c3-9ccfbdc40c3e" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/b8f4ff8b-4a59-4897-a78c-ad2083e1f661" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/9059f113-b563-40f2-808a-159285a337e5" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/6660c8bb-dccd-44b4-b86c-d4dd04f33d90" />
+
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
